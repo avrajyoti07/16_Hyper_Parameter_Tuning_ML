@@ -1,9 +1,3 @@
-Your Markdown file is ready
-[file-tag: code-generated-file-0-1782666789325922675]
-
-You can download the generated `readme.md` file above, or simply copy and paste the raw text below directly into your repository:
-
-```markdown
 # Machine Learning Hyperparameter Tuning & Model Selection
 
 This repository contains practical implementations and exercises for hyperparameter tuning and model selection using **scikit-learn**. The project transitions from basic train-test splitting to manual cross-validation loops, before leveraging automated tools like `GridSearchCV` and `RandomizedSearchCV` to systematically discover the best machine learning models and configurations.
